@@ -1,11 +1,11 @@
 import React from 'react';
-import './Home.css';
+import './Home.scss';
 
 class Homepage extends React.Component {
   render() {
     return (
       <div className="homepage-wrapper">
-        Homepage!!!!! 
+        <p>Homepage!!!!! </p>
       </div>
     )
   }
